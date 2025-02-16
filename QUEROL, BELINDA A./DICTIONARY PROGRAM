@@ -1,0 +1,38 @@
+# list manipulation - dictionary
+DATA = {
+    "ACCURACY" : "The degree of closeness of a measurement to the true value" ,
+    "ACTUATOR" : "A device that converts energy into motion" ,
+    "AGGREGATE" : "Crushed stone, gravel, or sand used in concrete and construction" ,
+    "ALGORITHM" : "A step-by-step procedure for solving a problem" ,
+    "AMPERE(Amp)" : "The unit of electric current" ,
+    "BEARING" : "A mechanical component that reduces friction between moving parts" ,
+    "BEAM" : "A structural element that resists bending loads" ,
+    "BLUEPRINT" : "A technical drawing or plan used in engineering and construction" ,
+    "CAD (Computer-Aided Design)" : "The use of software to create engineering drawings and designs" ,
+    "CALIBRATION" : "The process of adjusting a device to ensure accuracy" ,
+    "CAPACITOR" : "A component that stores electrical energy in an electric field" ,
+    "CEMENT" : "A binding material used in construction to make concrete" ,
+    "CIRCUIT" : "A closed path that allows electricity to flow" ,
+    "COMPRESSION" : "A force that squeezes a material together" ,
+    "CONCRETE" : "A mixture of cement, water, sand, and gravel used in construction" ,
+    "CONDUCTOR" : "A material that allows electricity to flow easily" ,
+    "CORROSION" : "The gradual destruction of materials (usually metals) due to chemical reactions" ,
+    "COUPLING" : "A device used to connect two rotating shafts together" ,
+    "CREEP" : "The slow deformation of materials under prolonged stress" ,
+    "DIODIDE" : "A semiconductor device that allows current to flow in one direction only" ,
+    "DUCTILITY" : "The ability of a material to be stretched into a wire without breaking" ,
+    "EFFICIENCY" : "The ratio of useful work output to total energy input" ,
+    "FREQUENCY" : "The number of cycles per second of an alternating current (measured in Hertz)" ,
+    "GEARS" : "Rotating machine parts with cut teeth that transmit torque" ,
+    "HEAT EXCHANGER" : "A device that transfers heat between two fluids" ,
+    "KINETIC ENERGY" : "The energy possessed by an object due to its motion" ,
+    "OHM’S Law" : "The relationship between voltage, current, and resistance" ,
+    "RESISTOR" : "A component that opposes the flow of electric current" ,
+    "STRESS" : "The internal force per unit area within a material" ,
+    "TENSILE STRENGTH" : "The maximum stress a material can withstand when stretched" ,
+    }
+a = input (" SEARCH ")
+print = (DATA [a])
+
+VIDEO:
+https://youtu.be/6nv_QbRaeGE?feature=shared
